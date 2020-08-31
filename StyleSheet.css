@@ -1,0 +1,54 @@
+﻿body {
+}
+.baslik{
+    width:1109px;
+    height:328px;
+    background-color:#e9ecef;
+    position:relative;
+    margin:auto auto 34px auto;
+    border-radius:5px;
+}
+.baslik2{
+    width:1000px;
+    height:200px;
+    background-color:#e9ecef;
+    position:absolute;
+    border-radius:5px;
+    margin-top:65px;
+    margin-left:50px;
+}
+.baslik3{
+    width:765px;
+    height:200px;
+    background-color:#e9ecef;
+    position:absolute;
+    border-radius:5px;
+    margin-left:235px;
+    margin-bottom:15px;
+}
+.baslik4{
+    width:235px;
+    height:200px;
+    background-color:#e9ecef;
+    position:absolute;
+    border-radius:5px;
+}
+.imgg{
+    position:relative;
+    height: 200px;
+    width: 235px;
+    border-radius:15px;
+}
+.yazi{
+    margin-left:15px;
+    font-size:30px;
+    margin-top:30px;
+    font-family:Arial;
+    font-weight:bold;
+}
+.yazi2{
+    margin-left:15px;
+    font-size:25px;
+    margin-top:30px;
+    font-family:Arial;
+}

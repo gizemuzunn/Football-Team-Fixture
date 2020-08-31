@@ -1,2 +1,3 @@
 # Football-Team-Fixture
-ASP.Net &amp; JavaScript &amp; CSS
+ASP.Net &amp; JavaScript &amp; CSS &amp; SQL
+In this project, user needs to enter the number of teams and choose the create new season options.Then,modal appeares to check if the user wants to continue.In the new tab that opens, users insert the team names and team discriptions.In this tab, when user click "Go Next Page!" option, pragramm calculates how many different football game can be played totally.If the "Save/Update Team Info" option is selected before the "Go Next Page!" option, all teams and their information is saved in the database server and also their lose and win situation.For the first page,the other option is proceeding with the old season teams. If user choose this option, they can see the old season information thanks to the database server.
